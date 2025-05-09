@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\WL_TP4.props" />
-</Project>

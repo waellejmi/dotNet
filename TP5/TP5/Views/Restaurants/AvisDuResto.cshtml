@@ -1,0 +1,12 @@
+﻿@model TP5.Models.RestosModel.Restaurant
+
+<h2>Avis pour @Model.NomResto</h2>
+<ul>
+    @foreach (var avis in Model.LesAvis)
+    {
+        <li>
+            <strong>@avis.NomPersonne</strong> - Note: @avis.Note <br />
+            @avis.Commentaire
+        </li>
+    }
+</ul>

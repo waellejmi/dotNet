@@ -1,0 +1,71 @@
+meta {
+  name: createUSER
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:5115/api/users
+  body: json
+  auth: bearer
+}
+
+headers {
+  : 
+}
+
+auth:bearer {
+  token: super_secret_key_123!
+}
+
+body:json {
+  {
+    "id": 42,
+    "username": "wael_coder",
+    "email": "wael@example.com",
+    "password": "P@ssw0rd123",
+    "posts": [
+      {
+        "id": 101,
+        "content": "Just deployed my first API with Docker!",
+        "userId": 42,
+        "user": "wael_coder"
+      },
+      {
+        "id": 102,
+        "content": "Learning about user-role management in .NET.",
+        "userId": 42,
+        "user": "wael_coder"
+      }
+    ],
+    "userRoles": [
+      {
+        "userId": 42,
+        "user": "wael_coder",
+        "roleId": 1,
+        "role": {
+          "id": 1,
+          "name": "Admin",
+          "userRoles": [
+            "wael_coder",
+            "admin_user_1"
+          ]
+        }
+      },
+      {
+        "userId": 42,
+        "user": "wael_coder",
+        "roleId": 2,
+        "role": {
+          "id": 2,
+          "name": "Editor",
+          "userRoles": [
+            "wael_coder",
+            "editor_user_5"
+          ]
+        }
+      }
+    ]
+  }
+  
+}

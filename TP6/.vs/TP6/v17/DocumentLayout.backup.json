@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\schoolwebappclient\\views\\schoolclient\\getallschools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|solutionrelative:schoolwebappclient\\views\\schoolclient\\getallschools.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\schoolwebappclient\\controllers\\schoolclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|solutionrelative:schoolwebappclient\\controllers\\schoolclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\tp6\\controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|solutionrelative:tp6\\controllers\\schoolscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\schoolwebappclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|solutionrelative:schoolwebappclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\schoolwebappclient\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A84431-4E56-40A8-A9C6-90086B55F741}|SchoolWebAppClient\\SchoolWebAppClient.csproj|solutionrelative:schoolwebappclient\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|solutionrelative:tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\tp6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|solutionrelative:tp6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\tp6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|solutionrelative:tp6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\tp6\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|solutionrelative:tp6\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|c:\\users\\eniso2024-2025\\source\\repos\\wl_ia2.2.2\\tp6\\tp6\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{756D1647-1226-4935-AB7D-4513D1BAF08F}|TP6\\TP6.csproj|solutionrelative:tp6\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllSchools.cshtml",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Views\\SchoolClient\\GetAllSchools.cshtml",
+              "RelativeDocumentMoniker": "SchoolWebAppClient\\Views\\SchoolClient\\GetAllSchools.cshtml",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Views\\SchoolClient\\GetAllSchools.cshtml",
+              "RelativeToolTip": "SchoolWebAppClient\\Views\\SchoolClient\\GetAllSchools.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T10:21:46.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolWebAppClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Program.cs",
+              "RelativeToolTip": "SchoolWebAppClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:07:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TP6\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TP6\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T10:04:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "RelativeDocumentMoniker": "SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "RelativeToolTip": "SchoolWebAppClient\\Controllers\\SchoolClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:04:25.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Models\\School.cs",
+              "RelativeDocumentMoniker": "SchoolWebAppClient\\Models\\School.cs",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\SchoolWebAppClient\\Models\\School.cs",
+              "RelativeToolTip": "SchoolWebAppClient\\Models\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T10:02:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolsController.cs",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Controllers\\SchoolsController.cs",
+              "RelativeDocumentMoniker": "TP6\\Controllers\\SchoolsController.cs",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Controllers\\SchoolsController.cs",
+              "RelativeToolTip": "TP6\\Controllers\\SchoolsController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:40:47.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Program.cs",
+              "RelativeDocumentMoniker": "TP6\\Program.cs",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Program.cs",
+              "RelativeToolTip": "TP6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:30:10.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\appsettings.json",
+              "RelativeDocumentMoniker": "TP6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\appsettings.json",
+              "RelativeToolTip": "TP6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T09:29:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "TP6\\Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "TP6\\Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:26:07.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Models\\School.cs",
+              "RelativeDocumentMoniker": "TP6\\Models\\School.cs",
+              "ToolTip": "C:\\Users\\Eniso2024-2025\\source\\repos\\WL_IA2.2.2\\TP6\\TP6\\Models\\School.cs",
+              "RelativeToolTip": "TP6\\Models\\School.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:58:08.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

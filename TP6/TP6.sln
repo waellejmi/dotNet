@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP6", "TP6\TP6.csproj", "{756D1647-1226-4935-AB7D-4513D1BAF08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolWebAppClient", "SchoolWebAppClient\SchoolWebAppClient.csproj", "{34A84431-4E56-40A8-A9C6-90086B55F741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{756D1647-1226-4935-AB7D-4513D1BAF08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756D1647-1226-4935-AB7D-4513D1BAF08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756D1647-1226-4935-AB7D-4513D1BAF08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756D1647-1226-4935-AB7D-4513D1BAF08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A84431-4E56-40A8-A9C6-90086B55F741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A84431-4E56-40A8-A9C6-90086B55F741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A84431-4E56-40A8-A9C6-90086B55F741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A84431-4E56-40A8-A9C6-90086B55F741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
